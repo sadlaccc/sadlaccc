@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caldas Cheruyot</h1>
-<h3 align="center">Penetration Tester • Bug Bounty Hunter • AI & Cybersecurity Enthusiast • CS Master's Student</h3>
+<h3 align="center">Penetration Tester • Bug Bounty Hunter • AI & Cybersecurity Engineer • Cloud Security Specialist</h3>
 
 <p align="center">
-  <em>I break things to understand them, then build them stronger and more secure.</em><br>
-  Based in Kenya 🌍 | Passionate about ethical hacking, cloud security, AI-powered security, and CTFs
+  <em>I break systems to understand them, then build them stronger, smarter, and more secure.</em><br>
+  Based in Kenya 🌍 | Specializing in ethical hacking, AI-powered security, cloud-native defenses, and robust software engineering.
 </p>
 
 <p align="center">
@@ -20,19 +20,19 @@
 
 ---
 
-### 🚀 Currently Working On
-- 🔐 **Penetration Testing & Bug Bounty** – Finding vulnerabilities and writing reports
-- 🏆 **CTF Competitions** – Sharpening skills in real-time challenges
-- 🤖 **AI for Security** – Building ML models for threat detection & anomaly analysis
-- 📊 **Streamlit Dashboards** – Interactive security & data visualization tools
-- ☁️ **Cloud Security** – Securing AWS, GCP, and Kubernetes environments
-- 🐍 **Python-first** – My go-to language for tools, scripts, and automation
+### 🚀 What I'm Building & Hunting
+- 🔐 **Penetration Testing & Bug Bounty** – Discovering zero-days and delivering high-impact reports  
+- 🏆 **CTF & Red Teaming** – Competing and creating challenges to push boundaries  
+- 🤖 **AI for Cybersecurity** – Developing ML models for threat detection, anomaly analysis, and automated pentesting  
+- ☁️ **Cloud Security & Architecture** – Securing AWS, GCP, Kubernetes, and serverless environments  
+- 🛠️ **Software Engineering** – Building scalable, secure tools and applications (Python-first)  
+- 📊 **Streamlit & Data Apps** – Creating interactive security dashboards and analytics platforms
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
-**Programming & Frameworks**
+**Core Languages & Frameworks**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
@@ -49,7 +49,7 @@
   <img src="https://www.wireshark.org/assets/wireshark-logo.svg" alt="Wireshark" width="42" height="42"/>
 </p>
 
-**Cloud & DevOps**
+**Cloud, DevOps & Infrastructure**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="42" height="42"/>
@@ -61,10 +61,10 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadlaccc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadlaccc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -82,10 +82,10 @@
 ---
 
 ### 🤝 Let's Connect & Collaborate
-- 🐦 Twitter: [@caldascc](https://twitter.com/caldascc)
-- 💼 LinkedIn: [caldascheruyot](https://linkedin.com/in/caldascheruyot)
-- 📬 Open to CTF teams, bug bounty collabs, or AI/security projects!
+- 🐦 Twitter: [@caldascc](https://twitter.com/caldascc)  
+- 💼 LinkedIn: [caldascheruyot](https://linkedin.com/in/caldascheruyot)  
+- 📬 Open to bug bounty partnerships, AI-security projects, cloud pentesting, or CTF team-ups!
 
 <p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." — Gene Spafford</i>
 </p>
